@@ -1,0 +1,17 @@
+{
+  "methods": {
+    "createLiveStream": {
+      "type": "readable"
+    },
+    "liveStream": {
+      "type": "readable"
+    }
+  },
+  "sublevels": {
+    "static": {
+      "methods": {},
+      "_prefix": "static",
+      "sublevels": {}
+    }
+  }
+}

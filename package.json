@@ -1,0 +1,30 @@
+{
+  "name": "taco-dtrace-demo",
+  "version": "0.0.0",
+  "description": "A dtrace demo for taco-demo",
+  "main": "index.js",
+  "dependencies": {
+    "multilevel": "~4.0.2",
+    "reconnect": "~1.3.4",
+    "through": "~2.3.4", 
+    "dtrace-streams" : "~0.0.2"
+
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/No9/taco-dtrace-demo.git"
+  },
+  "keywords": [
+    "leveldb",
+    "tacodb",
+    "dtrace"
+  ],
+  "author": "Anton Whalley",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "64400d624dad9e0acab135877871a850e9b4bca3"
+}
